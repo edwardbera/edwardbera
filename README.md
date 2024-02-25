@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **front-end development** & **golang**
   
-- 👨‍💻 All of my projects are available at [beradev.xyz](beradev.xyz)
+- 👨‍💻 Visit my portfolio site at [beradev.xyz](beradev.xyz)
 
 - 📫 How to reach me **beraedward@gmail.com**
 
